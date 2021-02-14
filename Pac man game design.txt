@@ -1,0 +1,9 @@
+c43 elements of game design
+1. characters: player, non playing.
+2. story: escaping the maze while avoiding the ghosts(non playing).
+3. goals
+4. rules
+5. balance: not too easy not too difficult.
+6. adaptivity in a game: levels.
+7. chance/skill.
+8. feedback: score system/sound system.
